@@ -1,0 +1,25 @@
+{
+  "name": "sen",
+  "version": "1.0.0",
+  "description": "这个是我的小型全栈APP的应用版",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "webpack 4",
+    "react 16",
+    "Babel 7",
+    "全栈APP"
+  ],
+  "author": "Mike Li",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ],
+  "proxy": "http://localhost:8001"
+}
